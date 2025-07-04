@@ -6,6 +6,12 @@ This analysis will:
 •	Identify compliance gaps.
 •	Provide salary distribution trends.
 •	Deliver actionable insights using Power BI visuals and data exploration.
+### Data Sources
+The primary source of data used is the Palmoria group.csv and palmoria bonus.excel, it was provided by the incubator hub as our final project
+### Tools Used
+ - PowerBI [Download Here](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads?ocid=ORSEARCH_Bing&msockid=0b06a1a0c36e6a270efdb7a4c21e6b87)
+   - Data Cleaning
+   - Creating Report
 
 ### Data Cleaning and Preparation
 Steps taken to prepare the data:
@@ -56,9 +62,6 @@ Key Insights
 - Salary Distribution:
    - The distribution shows a bell shape peaking at $70k–$90k.
    - Drastic drop in counts beyond the $100k+ range.
-
-
-
 
 
 
