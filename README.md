@@ -47,7 +47,7 @@ Key variables explored:
 - Sum of Salary:
    - total salary in addition to the bonus
 
-Key Insights
+### Key Insights
 - Non-Compliance Detected:
    - Over 40% of employees earn below $90,000.
    - High concentration in $70k–$80k band.
@@ -62,6 +62,38 @@ Key Insights
 - Salary Distribution:
    - The distribution shows a bell shape peaking at $70k–$90k.
    - Drastic drop in counts beyond the $100k+ range.
+
+### Data Analysis
+I applied these steps in other to answer the questions, using steps in this image
+<img width="227" height="262" alt="image" src="https://github.com/user-attachments/assets/2ffb2aa2-b534-47e2-883c-1deabb8ae71b" />
+
+### Visualization
+<img width="735" height="416" alt="image" src="https://github.com/user-attachments/assets/518f3847-59a1-4f34-9a20-88a2e59b1c7d" />
+<img width="732" height="396" alt="image" src="https://github.com/user-attachments/assets/fb7fb5a0-be63-462a-a296-3d1fcd1236dd" />
+<img width="734" height="424" alt="image" src="https://github.com/user-attachments/assets/10a590cd-eaee-4449-82b1-2fa6e24a418a" />
+
+### Recomendations
+- Conduct a salary audit across roles to identify unjustified disparities.
+- Investigate possible regional management or structural biases in promotions or hiring standards.
+- Introduce regional HR oversight or training to align practices across locations.
+- Benchmark Manufacturing compensation against industry standards.
+- checks Implement bias in promotion/hiring systems and review hiring pipelines.
+- Promote internal female mobility into high-paying departments (e.g., Tech).
+- Consider spot bonuses or equity incentives to retain mid-level talent stuck in the bell curve.
+  
+### Limitations
+During my work, after i had merged i was unable to close and apply due to duplication on my bonus rules table, which occured after i got the other columns unpivoted.
+There was no unnecessary columns rather some rows were taken out
+
+### References
+Power BI
+incubator hub [youtube]
+
+
+
+
+
+
 
 
 
